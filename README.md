@@ -4,7 +4,7 @@ Web Api básica construída com Node.js, Express, e MySQL.
 
 ## Descrição
 
-Este projeto é uma API simples que permite criar, ler, atualizar e excluir clientes. Utiliza o Express para o servidor e o MySQL para o banco de dados.
+Este projeto é uma Web API simples que permite criar, ler, atualizar e excluir clientes. Utiliza o Express para o servidor e o MySQL para o banco de dados.
 
 ## Dependências
 
